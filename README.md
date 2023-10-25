@@ -1,6 +1,6 @@
 # Object Detection
 
-![](detections/dog.jpg)
+![](object_detection/detections/dog.jpg)
 
 ## Learning Objectives
 
